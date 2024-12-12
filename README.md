@@ -29,6 +29,9 @@ This project demonstrates a simple FastAPI application that implements CRUD (Cre
    ```
 4. Access the API documentation: Go to http://127.0.0.1:8000/docs for an interactive interface where you can test the API.
 
+   <img width="1680" alt="Screenshot 2024-12-12 at 3 17 45 PM" src="https://github.com/user-attachments/assets/6c1beea4-22fd-4df8-a430-52f8b43bc275" />
+
+
 # Folder Structure
  ```
 /yourproject
